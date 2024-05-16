@@ -15,4 +15,12 @@
 | 所有没有区块加载器的自动红石机器 | Paper | Paper |
 | 刷沙机 | Paper | Paper(1.20.4以后),Purpur |
 | 刷地毯，TNT机 | Paper | Paper |
-| (MC-129055)[https://bugs.mojang.com/browse/MC-129055] | Paper | Paper |
+| [MC-129055](https://bugs.mojang.com/browse/MC-129055) | Paper | Paper |
+| 允许积分板上的非玩家实体 | Paper | Paper |
+| 铁傀儡可以在空中生成 | Paper | Paper |
+| 治愈僵尸村民获得无限折扣 | Paper | Paper |
+| 允许玩家疯狂(就是疯狂双击)伤害 | Paper | Paper |
+| 更新抑制器(伪和平) | Paper | Paper |
+| 原版记分牌颜色代码 | Paper | Paper |
+| 创造玩家身旁不生成幻翼 | Paper | Paper |
+| 幻翼仅攻击不睡觉的玩家 | Paper | Paper |
