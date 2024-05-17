@@ -12,7 +12,7 @@
 | 虚空交易 | Paper | Purpur |
 | 世吞（包括所有依赖于TNT的红石机器） | Spigot | Spigot |
 | 部分漏斗机器(蓝图可在本项目目录下寻找) | Paper | Leaves |
-| 所有没有区块加载器的自动红石机器 | Paper | Paper |
+| 所有没有区块加载器的红石机器 | Paper | Paper |
 | 刷沙机 | Paper | Paper(1.20.4以后),Purpur |
 | 刷地毯，TNT机 | Paper | Paper |
 | [MC-129055](https://bugs.mojang.com/browse/MC-129055) | Paper | Paper |
@@ -27,3 +27,11 @@
 | 部分区块常加载器 | Paper | Paper |
 | 最大实体挤压 | Paper | Paper |
 | 结构生成不遵循种子 | Spigot | Spigot |
+
+## 感谢
+
+所有为此做出贡献的人
+
+[Paper Issue 21](https://github.com/PaperMC/docs/issues/21)
+
+[LeavesMC](https://github.com/LeavesMC)
