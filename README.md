@@ -20,7 +20,8 @@
 | 铁傀儡可以在空中生成 | Paper | Paper |
 | 治愈僵尸村民获得无限折扣 | Paper | Paper |
 | 允许玩家疯狂(就是疯狂双击)伤害 | Paper | Paper |
-| 更新抑制器(伪和平) | Paper | Paper |
+| 更新抑制器 | Paper | ? |
+| 伪和平 | Paper | Paper |
 | 原版记分牌颜色代码 | Paper | Paper |
 | 创造玩家身旁不生成幻翼 | Paper | Paper |
 | 幻翼仅攻击不睡觉的玩家 | Paper | Paper |
