@@ -24,3 +24,6 @@
 | 原版记分牌颜色代码 | Paper | Paper |
 | 创造玩家身旁不生成幻翼 | Paper | Paper |
 | 幻翼仅攻击不睡觉的玩家 | Paper | Paper |
+| 部分区块常加载器 | Paper | Paper |
+| 最大实体挤压 | Paper | Paper |
+| 结构生成不遵循种子 | Spigot | Spigot |
