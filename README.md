@@ -27,6 +27,13 @@
 | 部分区块常加载器 | Paper | Paper |
 | 最大实体挤压 | Paper | Paper |
 | 结构生成不遵循种子 | Spigot | Spigot |
+| 大量发包导致踢出(特别是使用自动整理的时候) | Paper | Paper |
+| 在书中解析选择器 | Paper | Paper |
+| 无头活塞 | Paper | Paper |
+| 允许破坏非法方块 | Paper | Paper |
+| [Cce更新抑制](https://www.bilibili.com/read/cv24323749/) | Mojang | Leaves |
+| [零刻作物催熟技术](https://zh.minecraft.wiki/w/Tutorial:%E9%9B%B6%E5%88%BB%E4%BD%9C%E7%89%A9%E5%82%AC%E7%86%9F%E6%8A%80%E6%9C%AF) | Mojang | Leaves |
+
 
 ## 感谢
 
