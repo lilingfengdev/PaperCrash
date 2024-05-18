@@ -20,7 +20,7 @@
 | 铁傀儡可以在空中生成 | Paper | Paper |
 | 治愈僵尸村民获得无限折扣 | Paper | Paper |
 | 允许玩家疯狂(就是疯狂双击)伤害 | Paper | Paper |
-| 更新抑制器 | Paper | ? |
+| 活板门跳略器 | Mojang | Leaves |
 | 伪和平 | Paper | Paper |
 | 原版记分牌颜色代码 | Paper | Paper |
 | 创造玩家身旁不生成幻翼 | Paper | Paper |
@@ -31,7 +31,7 @@
 | 大量发包导致踢出(特别是使用自动整理的时候) | Paper | Paper |
 | 在书中解析选择器 | Paper | Paper |
 | 无头活塞 | Paper | Paper |
-| 允许破坏非法方块 | Paper | Paper |
+| 破坏坚不可摧的方块(如基岩,末地传送门) | Paper | Paper |
 | [Cce更新抑制](https://www.bilibili.com/read/cv24323749/) | Mojang | Leaves |
 | [零刻作物催熟技术](https://zh.minecraft.wiki/w/Tutorial:%E9%9B%B6%E5%88%BB%E4%BD%9C%E7%89%A9%E5%82%AC%E7%86%9F%E6%8A%80%E6%9C%AF) | Mojang | Leaves |
 
