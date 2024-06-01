@@ -33,6 +33,7 @@
 | 破坏坚不可摧的方块(如基岩,末地传送门) | Paper | Paper |
 | [Cce更新抑制](https://www.bilibili.com/read/cv24323749/) | Mojang | Leaves |
 | [零刻作物催熟技术](https://zh.minecraft.wiki/w/Tutorial:%E9%9B%B6%E5%88%BB%E4%BD%9C%E7%89%A9%E5%82%AC%E7%86%9F%E6%8A%80%E6%9C%AF) | Mojang | Leaves |
+| 末影之眼搜寻不到未加载区块的遗址 | Paper | Paper |
 
 
 ## 感谢
