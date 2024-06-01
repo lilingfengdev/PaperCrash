@@ -17,8 +17,7 @@
 | 刷地毯，TNT机 | Paper | Paper |
 | [MC-129055](https://bugs.mojang.com/browse/MC-129055) | Paper | Paper |
 | 允许积分板上的非玩家实体 | Paper | Paper |
-| 铁傀儡可以在空中生成 | Paper | Paper |
-| 治愈僵尸村民获得无限折扣 | Paper | Paper |
+| 治愈僵尸村民获得无限折扣 | Mojang | Paper |
 | 允许玩家疯狂(就是疯狂双击)伤害 | Paper | Paper |
 | 活板门跳略器 | Mojang | Leaves |
 | 伪和平 | Paper | Paper |
